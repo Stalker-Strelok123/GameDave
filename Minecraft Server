@@ -1,3 +1,4 @@
+<html>
 <body style="background-image: url(background.jpg)"></body>
 <body>
     <font size="7"> <font color="white"> <div style=margin-left:0px> <div style=margin-top:40px>
@@ -16,3 +17,4 @@
         ip-адрес сервера: <strong>f5.gamely.pro:20988</strong></p>
     </font></div>
 </body>        
+</html>
